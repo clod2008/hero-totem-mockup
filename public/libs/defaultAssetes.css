@@ -1,0 +1,20 @@
+html, body{
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: black;
+    overflow: hidden;
+}
+#headSection{
+    min-height: 8vh;
+    background-color: black;
+    color: white;
+}
+video{
+    border-radius: 20px;
+}
+.row{
+    margin-bottom: 20px;
+}
+small{
+    color: white;    
+}
