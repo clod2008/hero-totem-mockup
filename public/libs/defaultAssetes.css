@@ -18,3 +18,8 @@ video{
 small{
     color: white;    
 }
+
+.carousel-item img{
+    border-radius: 20px;
+     
+}
